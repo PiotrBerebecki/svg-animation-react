@@ -19,6 +19,11 @@
   to { transform: rotate(360deg); }
 }
 
+
+.bear {
+  /*border: 1px solid white;*/
+}
+
 .belly {
   animation: breathe infinite 8s linear;
   transform-origin: center;

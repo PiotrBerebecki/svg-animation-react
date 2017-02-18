@@ -10,7 +10,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to React</h2>
 
-          <svg height="480" width="640">
+          {/* <svg height="480" width="640"> */}
+          <svg className="bear" height="480" width="640" viewBox="155 50 300 340" preserveAspectRatio="xMidYMax">
             <g className="belly">
               <path id="path2385" d="m435.9953,258.826904a121.497658,121.497658 0 1 1-242.995285,0a121.497658,121.497658 0 1 1242.995285,0z" fill="#784421" stroke="#000000" strokeLinecap="round" strokeWidth="4"/>
               <path id="path3242" d="m253.341888,203.520935a22.977535,22.977535 0 1 1-45.955078,0a22.977535,22.977535 0 1 145.955078,0z" fill="#000000" fillOpacity="0.313725" strokeLinecap="round" strokeWidth="8.547946" transform="rotate(8.836820602416992 230.3643493652344,203.52093505859372) "/>
